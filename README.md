@@ -11,4 +11,13 @@ After installing symfony 5:
 symfony new my_project_name
 cd my_project_name
 
+#annotations for defining routes in controllers
+composer require annotations
+```
+
+### Start app
+
+```shell script
+cd my_project_name
+symfony server:start
 ```
