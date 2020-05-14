@@ -13,6 +13,8 @@ cd my_project_name
 
 #annotations for defining routes in controllers
 composer require annotations
+#CORS package
+composer req cors
 ```
 
 ### Start app
